@@ -23,3 +23,25 @@ User-Friendly Interface:
 
 Communication and Collaboration:
   Incorporates notifications and messages for user interactions, allows educators to exchange announcements, homework, and comments.
+
+
+Technology Stack:
+Backend: Node.js, Express.js
+Database: MongoDB
+Frontend: HTML, CSS, JavaScript, EJS
+Authentication: bcrypt.js for password hashing
+Session Management: express-session
+Flash Messages: express-flash for success/error alerts
+Email Notification: nodemailer for sending emails
+
+Scalability and Extensibility:
+Built to support future growth and institutional expansion.
+Modular design enables easy feature integration and customization.
+
+Security Considerations:
+Secures data with encryption, protects against SQL injection and XSS attacks.
+Conducts regular security audits and updates for threat management.
+
+Testing and Quality Assurance:
+Follows industry standards for code quality and documentation.
+Uses automated testing tools and CI pipelines for reliability.
