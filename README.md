@@ -44,3 +44,6 @@ Security Considerations:
 
 Testing and Quality Assurance:
 - Follows industry standards for code quality and documentation. Uses automated testing tools and CI pipelines for reliability.
+
+License
+  - This project is licensed under the MIT License. You are free to use, modify, and distribute the software according to the terms of the license.
