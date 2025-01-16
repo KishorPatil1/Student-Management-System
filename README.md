@@ -43,4 +43,4 @@ Security Considerations:
 - Conducts regular security audits and updates for threat management.
 
 Testing and Quality Assurance:
--Follows industry standards for code quality and documentation. Uses automated testing tools and CI pipelines for reliability.
+- Follows industry standards for code quality and documentation. Uses automated testing tools and CI pipelines for reliability.
