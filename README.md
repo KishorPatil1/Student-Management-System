@@ -1,11 +1,11 @@
-**Student-Management-System**
+# **Student-Management-System**
 A sophisticated web-based tool called the Student Management System was created to help educational institutions effectively manage student data and academic records. The system was designed to facilitate better communication among stakeholders and improve administrative operations. It can accommodate several user roles, such as coordinators, teachers, administrators, and students. Features
 
 Role-Based Access Control:
-  Admin : Centralizes administrative tasks such as managing student records, adding or removing users, and overseeing system configuration.
-  Coordinator: Manages course reports, student progress, and branch-level assignments.
-  Teacher: Manages attendance, assignments, evaluations, and feedback in the classroom.
-  Student: Has access to communication tools, schedules, grades, and academic records.
+  -Admin : Centralizes administrative tasks such as managing student records, adding or removing users, and overseeing system configuration.
+  -Coordinator: Manages course reports, student progress, and branch-level assignments.
+  -Teacher: Manages attendance, assignments, evaluations, and feedback in the classroom.
+  -Student: Has access to communication tools, schedules, grades, and academic records.
 
 Branch-Wise Management:
   Has several branches, each with its own staff, students, and courses.
